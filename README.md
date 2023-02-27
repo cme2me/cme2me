@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max
 - 👀 I’m interested in Java software development
-- 🌱 I’m currently learning Kafka
+- 🌱 I’m currently learning Keycloak
 - 📫 How to reach me max.zhakov@gmail.com
 
 <!---
